@@ -1,4 +1,2 @@
-![RedFedoraa's github stats](https://github-readme-stats.vercel.app/api?username=RedFedoraa&theme=nightowl&show_icons=true)
-
-
-![Counter](https://visitor-badge.glitch.me/badge?page_id=redfedoraa.visitor-badge)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RedFedoraa&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedFedoraa&&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
